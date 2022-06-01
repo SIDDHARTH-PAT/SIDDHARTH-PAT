@@ -135,7 +135,6 @@ If things goes well, this section should have a list of blog posts, Untill then 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **SIDDHARTH-PAT/SIDDHARTH-PAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
