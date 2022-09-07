@@ -6,7 +6,7 @@
 ### <div align="center">I'm Siddharth, a frontend & UI/UX developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [MyPath](#)  
+- 🔭 I’m currently working on [MyPath]("https://github.com/SIDDHARTH-PAT/MyPath.io")  
   
 
 - 🌱 I’m currently learning Next.js & Aws  
